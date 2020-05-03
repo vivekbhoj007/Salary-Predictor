@@ -1,10 +1,4 @@
-
-
-
-
-
-
-<!DOCTYPE html>
+<!-- <!DOCTYPE html> -->
 <html lang="en">
   <head>
     <meta charset="utf-8">
@@ -839,51 +833,63 @@
 <table class="highlight tab-size js-file-line-container" data-tab-size="8" data-paste-markdown-skip>
       <tr>
         <td id="L1" class="blob-num js-line-number" data-line-number="1"></td>
-        <td id="LC1" class="blob-code blob-code-inner js-file-line">Flask==1.1.1</td>
+        <td id="LC1" class="blob-code blob-code-inner js-file-line">Flask==1.1.1
+</td>
       </tr>
       <tr>
         <td id="L2" class="blob-num js-line-number" data-line-number="2"></td>
-        <td id="LC2" class="blob-code blob-code-inner js-file-line">gunicorn==19.9.0</td>
+        <td id="LC2" class="blob-code blob-code-inner js-file-line">gunicorn==19.9.0
+</td>
       </tr>
       <tr>
         <td id="L3" class="blob-num js-line-number" data-line-number="3"></td>
-        <td id="LC3" class="blob-code blob-code-inner js-file-line">itsdangerous==1.1.0</td>
+        <td id="LC3" class="blob-code blob-code-inner js-file-line">itsdangerous==1.1.0
+</td>
       </tr>
       <tr>
         <td id="L4" class="blob-num js-line-number" data-line-number="4"></td>
-        <td id="LC4" class="blob-code blob-code-inner js-file-line">Jinja2==2.10.1</td>
+        <td id="LC4" class="blob-code blob-code-inner js-file-line">Jinja2==2.10.1
+</td>
       </tr>
       <tr>
         <td id="L5" class="blob-num js-line-number" data-line-number="5"></td>
-        <td id="LC5" class="blob-code blob-code-inner js-file-line">MarkupSafe==1.1.1</td>
+        <td id="LC5" class="blob-code blob-code-inner js-file-line">MarkupSafe==1.1.1
+</td>
       </tr>
       <tr>
         <td id="L6" class="blob-num js-line-number" data-line-number="6"></td>
-        <td id="LC6" class="blob-code blob-code-inner js-file-line">Werkzeug==0.15.5</td>
+        <td id="LC6" class="blob-code blob-code-inner js-file-line">Werkzeug==0.15.5
+</td>
       </tr>
       <tr>
         <td id="L7" class="blob-num js-line-number" data-line-number="7"></td>
-        <td id="LC7" class="blob-code blob-code-inner js-file-line">numpy&gt;=1.9.2</td>
+        <td id="LC7" class="blob-code blob-code-inner js-file-line">numpy&gt;=1.9.2
+</td>
       </tr>
       <tr>
         <td id="L8" class="blob-num js-line-number" data-line-number="8"></td>
-        <td id="LC8" class="blob-code blob-code-inner js-file-line">scipy&gt;=0.15.1</td>
+        <td id="LC8" class="blob-code blob-code-inner js-file-line">scipy&gt;=0.15.1
+</td>
       </tr>
       <tr>
         <td id="L9" class="blob-num js-line-number" data-line-number="9"></td>
-        <td id="LC9" class="blob-code blob-code-inner js-file-line">scikit-learn&gt;=0.18</td>
+        <td id="LC9" class="blob-code blob-code-inner js-file-line">scikit-learn&gt;=0.18
+</td>
       </tr>
       <tr>
         <td id="L10" class="blob-num js-line-number" data-line-number="10"></td>
-        <td id="LC10" class="blob-code blob-code-inner js-file-line">matplotlib&gt;=1.4.3</td>
+        <td id="LC10" class="blob-code blob-code-inner js-file-line">matplotlib&gt;=1.4.3
+</td>
       </tr>
       <tr>
         <td id="L11" class="blob-num js-line-number" data-line-number="11"></td>
-        <td id="LC11" class="blob-code blob-code-inner js-file-line">pandas&gt;=0.19</td>
+        <td id="LC11" class="blob-code blob-code-inner js-file-line">pandas&gt;=0.19
+</td>
       </tr>
       <tr>
         <td id="L12" class="blob-num js-line-number" data-line-number="12"></td>
-        <td id="LC12" class="blob-code blob-code-inner js-file-line"></td>
+        <td id="LC12" class="blob-code blob-code-inner js-file-line">
+</td>
       </tr>
 </table>
 
